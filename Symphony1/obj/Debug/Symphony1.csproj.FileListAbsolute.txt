@@ -1,0 +1,10 @@
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\bin\Debug\Symphony1.exe.config
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\bin\Debug\Symphony1.exe
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\bin\Debug\Symphony1.pdb
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\obj\Debug\Symphony1.csprojResolveAssemblyReference.cache
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\obj\Debug\Symphony1.Properties.Resources.resources
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\obj\Debug\Symphony1.csproj.GenerateResource.Cache
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\obj\Debug\Symphony1.csproj.CoreCompileInputs.cache
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\obj\Debug\Symphony1.exe
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\obj\Debug\Symphony1.pdb
+C:\Users\Kazenando\Desktop\Tugas Akhir\Symphony\Symphony1\Symphony1\obj\Debug\Symphony1.Form1.resources
